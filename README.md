@@ -1,40 +1,24 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse project
 
-> Description the project.
+>In this project, I created "Hello world" repository.The goal here is to master all of the tools and best practices learned about in previous steps of my Microverse Full Program which I will be using in all Microverse projects and most likely in my future job as well, so it is important to know the implementation processes required!
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
+- Technologies used: VS Code
+- Concepts Applied: GitHub Action Flow used; linter (HTML & CSS)
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+**This is my first project in Microverse Full Program.**
 
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+**This project primary goal is to understand the "how to"  and to befriend these tools which are daily used in the program **
 
 
 
